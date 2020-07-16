@@ -21,7 +21,7 @@ public class AgeGuess3 {
 		ageGuess = input.nextInt();
 
 		// Part A
-		if (ageGuess != age)
+		if (ageGuess != age) {
 
 			System.out.print("You guessed wrong!!");
 
